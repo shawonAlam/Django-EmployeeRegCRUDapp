@@ -1,5 +1,5 @@
 # EmployeeRegCRUDapp
-Make sure django is installed properly.
+Make sure django is installed properly. <br>
 Step 1: Run python virtual environment.
 Step 2: Goto \CRUD\employee_project\
 step 3: run the command on windows 'py manage.py runserver'
