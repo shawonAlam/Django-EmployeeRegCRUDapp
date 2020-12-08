@@ -1,4 +1,9 @@
 # EmployeeRegCRUDapp
+Employee file create page: 
+![](EmployeeRegCRUDapp-2.png)
+
+Employee records page: 
+![](EmployeeRegCRUDapp-1.png)
 Make sure django is installed properly. <br>
 Step 1: Run python virtual environment. <br>
 Step 2: Goto \CRUD\employee_project\ <br>
